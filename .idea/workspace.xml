@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef8e204c-7d63-4aec-b783-a7d022b13a98" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modals/insertRequest.php" afterPath="$PROJECT_DIR$/modals/insertRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modals/insertUser.php" afterPath="$PROJECT_DIR$/modals/insertUser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/loader.php" afterPath="$PROJECT_DIR$/config/loader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/ownlist.php" afterPath="$PROJECT_DIR$/views/ownlist.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/requestsList.php" afterPath="$PROJECT_DIR$/views/requestsList.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/script1.js" afterPath="$PROJECT_DIR$/assets/script1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/usersModel.php" afterPath="$PROJECT_DIR$/models/usersModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/workplacesModel.php" afterPath="$PROJECT_DIR$/models/workplacesModel.php" />
+    </list>
+    <ignored path="pavle_projekat.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="pavle_projekat" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="insertRequest.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modals/insertRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="0" selection-start="770" selection-end="770" vertical-scroll-proportion="-10.923077" vertical-offset="5" max-vertical-offset="1020">
+              <folding>
+                <marker date="1597952013417" expanded="true" signature="2244:2651" placeholder="&lt;xml/&gt;" />
+                <marker date="1597952013417" expanded="true" signature="2245:2651" placeholder="&lt;xml/&gt;" />
+                <marker date="1597952013417" expanded="true" signature="2246:2651" placeholder="&lt;xml/&gt;" />
+                <marker date="1597952013417" expanded="true" signature="2247:2651" placeholder="&lt;xml/&gt;" />
+                <marker date="1597952013417" expanded="true" signature="2248:2651" placeholder="&lt;xml/&gt;" />
+                <marker date="1597952013417" expanded="true" signature="2249:2651" placeholder="&lt;xml/&gt;" />
+                <marker date="1597952013417" expanded="true" signature="2250:2651" placeholder="&lt;xml/&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insertUser.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modals/insertUser.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="0" selection-start="1794" selection-end="1794" vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="1513">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ownlist.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/ownlist.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="0" selection-start="1642" selection-end="1642" vertical-scroll-proportion="-31.384615" vertical-offset="0" max-vertical-offset="2040">
+              <folding>
+                <element signature="e#3252#3278#0" expanded="true" />
+                <element signature="e#3736#3761#0" expanded="true" />
+                <element signature="e#3925#3949#0" expanded="true" />
+                <element signature="e#4242#4266#0" expanded="true" />
+                <element signature="e#4584#4611#0" expanded="true" />
+                <marker date="1599759477480" expanded="false" signature="1567:1586" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="986">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editRequest.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/editRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="44.653847" vertical-offset="1161" max-vertical-offset="1666">
+              <folding>
+                <marker date="1599759316546" expanded="true" signature="730:3713" placeholder="..." />
+                <marker date="1599759316546" expanded="true" signature="792:1198" placeholder="..." />
+                <marker date="1599759316546" expanded="true" signature="896:1176" placeholder="..." />
+                <marker date="1599759316546" expanded="true" signature="1259:1387" placeholder="..." />
+                <marker date="1599759316546" expanded="true" signature="1411:1830" placeholder="..." />
+                <marker date="1599759316546" expanded="true" signature="1854:2044" placeholder="..." />
+                <marker date="1599759316546" expanded="true" signature="2068:2237" placeholder="..." />
+                <marker date="1599759316546" expanded="true" signature="2430:2660" placeholder="..." />
+                <marker date="1599759316546" expanded="true" signature="2766:2962" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requestsList.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/requestsList.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="4" selection-start="1188" selection-end="1188" vertical-scroll-proportion="-23.538462" vertical-offset="0" max-vertical-offset="2686">
+              <folding>
+                <marker date="1599759689644" expanded="true" signature="4541:4559" placeholder="..." />
+                <marker date="1599759689644" expanded="true" signature="4670:5946" placeholder="..." />
+                <marker date="1599759689644" expanded="true" signature="4699:5939" placeholder="..." />
+                <marker date="1599759689644" expanded="true" signature="4729:5928" placeholder="..." />
+                <marker date="1599759689644" expanded="true" signature="4762:4907" placeholder="..." />
+                <marker date="1599759689644" expanded="true" signature="5045:5062" placeholder="..." />
+                <marker date="1599759689644" expanded="true" signature="5230:5246" placeholder="..." />
+                <marker date="1599759689644" expanded="true" signature="5544:5560" placeholder="..." />
+                <marker date="1599759689644" expanded="true" signature="5790:5913" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="usersModel.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/usersModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="361" column="30" selection-start="10546" selection-end="10546" vertical-scroll-proportion="-7.269231" vertical-offset="5948" max-vertical-offset="8534">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="518">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script1.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/script1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="401" column="0" selection-start="11642" selection-end="11642" vertical-scroll-proportion="0.0" vertical-offset="2314" max-vertical-offset="7242">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loader.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/loader.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="45" selection-start="292" selection-end="292" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="391">
+              <folding>
+                <element signature="e#6#91#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/views/searchp.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/views/insert.php" />
+        <option value="$PROJECT_DIR$/views/editProfile.php" />
+        <option value="$PROJECT_DIR$/models/workplacesModel.php" />
+        <option value="$PROJECT_DIR$/assets/script.js" />
+        <option value="$PROJECT_DIR$/models/requestsModel.php" />
+        <option value="$PROJECT_DIR$/views/login.php" />
+        <option value="$PROJECT_DIR$/views/ownlist.php" />
+        <option value="$PROJECT_DIR$/views/requestsList.php" />
+        <option value="$PROJECT_DIR$/models/usersModel.php" />
+        <option value="$PROJECT_DIR$/modals/insertRequest.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/assets/script1.js" />
+        <option value="$PROJECT_DIR$/config/loader.php" />
+        <option value="$PROJECT_DIR$/modals/insertUser.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="1" />
+    <option name="width" value="1366" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CommaExpressionJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pavle_projekat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pavle_projekat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pavle_projekat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pavle_projekat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pavle_projekat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pavle_projekat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pavle_projekat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pavle_projekat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pavle_projekat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pavle_projekat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pavle_projekat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pavle_projekat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pavle_projekat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="165" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="165" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="options.lastSelected" value="JavaScript.Libraries" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="166" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fudbal" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="166" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="840" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="840" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="166" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="164" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xamp\htdocs\pavle_projekat" />
+      <recent name="E:\xamp\htdocs\pavle_projekat\config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef8e204c-7d63-4aec-b783-a7d022b13a98" name="Default" comment="" />
+      <created>1533634204472</created>
+      <updated>1533634204472</updated>
+      <workItem from="1550841854165" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="1" width="1366" height="726" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5887372" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3" sideWeight="0.6717428" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3274648" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.75205255" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282572" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="29" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fetch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="850">
+          <folding>
+            <marker date="1597164009230" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/requestsModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="289" column="34" selection-start="13428" selection-end="13428" vertical-scroll-proportion="0.0" vertical-offset="4913" max-vertical-offset="9112">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="68" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/editRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="44.653847" vertical-offset="1161" max-vertical-offset="1666">
+          <folding>
+            <marker date="1599759316546" expanded="true" signature="730:3713" placeholder="..." />
+            <marker date="1599759316546" expanded="true" signature="792:1198" placeholder="..." />
+            <marker date="1599759316546" expanded="true" signature="896:1176" placeholder="..." />
+            <marker date="1599759316546" expanded="true" signature="1259:1387" placeholder="..." />
+            <marker date="1599759316546" expanded="true" signature="1411:1830" placeholder="..." />
+            <marker date="1599759316546" expanded="true" signature="1854:2044" placeholder="..." />
+            <marker date="1599759316546" expanded="true" signature="2068:2237" placeholder="..." />
+            <marker date="1599759316546" expanded="true" signature="2430:2660" placeholder="..." />
+            <marker date="1599759316546" expanded="true" signature="2766:2962" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/requestsList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="4" selection-start="1188" selection-end="1188" vertical-scroll-proportion="-23.538462" vertical-offset="0" max-vertical-offset="2686">
+          <folding>
+            <marker date="1599759689644" expanded="true" signature="4541:4559" placeholder="..." />
+            <marker date="1599759689644" expanded="true" signature="4670:5946" placeholder="..." />
+            <marker date="1599759689644" expanded="true" signature="4699:5939" placeholder="..." />
+            <marker date="1599759689644" expanded="true" signature="4729:5928" placeholder="..." />
+            <marker date="1599759689644" expanded="true" signature="4762:4907" placeholder="..." />
+            <marker date="1599759689644" expanded="true" signature="5045:5062" placeholder="..." />
+            <marker date="1599759689644" expanded="true" signature="5230:5246" placeholder="..." />
+            <marker date="1599759689644" expanded="true" signature="5544:5560" placeholder="..." />
+            <marker date="1599759689644" expanded="true" signature="5790:5913" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="986">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/ownlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="0" selection-start="1642" selection-end="1642" vertical-scroll-proportion="-31.384615" vertical-offset="0" max-vertical-offset="2040">
+          <folding>
+            <element signature="e#3252#3278#0" expanded="true" />
+            <element signature="e#3736#3761#0" expanded="true" />
+            <element signature="e#3925#3949#0" expanded="true" />
+            <element signature="e#4242#4266#0" expanded="true" />
+            <element signature="e#4584#4611#0" expanded="true" />
+            <marker date="1599759477480" expanded="false" signature="1567:1586" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/script1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="401" column="0" selection-start="11642" selection-end="11642" vertical-scroll-proportion="0.0" vertical-offset="2314" max-vertical-offset="7242">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="45" selection-start="292" selection-end="292" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="391">
+          <folding>
+            <element signature="e#6#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modals/insertRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="770" selection-end="770" vertical-scroll-proportion="-10.923077" vertical-offset="5" max-vertical-offset="1020">
+          <folding>
+            <marker date="1597952013417" expanded="true" signature="2244:2651" placeholder="&lt;xml/&gt;" />
+            <marker date="1597952013417" expanded="true" signature="2245:2651" placeholder="&lt;xml/&gt;" />
+            <marker date="1597952013417" expanded="true" signature="2246:2651" placeholder="&lt;xml/&gt;" />
+            <marker date="1597952013417" expanded="true" signature="2247:2651" placeholder="&lt;xml/&gt;" />
+            <marker date="1597952013417" expanded="true" signature="2248:2651" placeholder="&lt;xml/&gt;" />
+            <marker date="1597952013417" expanded="true" signature="2249:2651" placeholder="&lt;xml/&gt;" />
+            <marker date="1597952013417" expanded="true" signature="2250:2651" placeholder="&lt;xml/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modals/insertUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="1794" selection-end="1794" vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="1513">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projekat1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.42411643" vertical-offset="204" max-vertical-offset="4658">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/usersModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="361" column="30" selection-start="10546" selection-end="10546" vertical-scroll-proportion="-7.269231" vertical-offset="5948" max-vertical-offset="8534">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
